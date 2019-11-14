@@ -61,6 +61,11 @@ html {
 
 .masthead a:hover {
   background-color: rgba(180, 220, 255, .3);
+  outline: 3px solid #fff;
+}
+
+.masthead a:focus {
+  outline: 3px solid #fff;
 }
 
 .techniques {
